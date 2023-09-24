@@ -27,7 +27,7 @@ In this research project, our goals are:
   - Yasemin Turkan, Computer Engineering 
   - Dr. Fatih Arpacı, Eye Hospital Specialization Candidate
   - Dr. Ozan Arslan, Neurology Specialization Candidate
-- **Undergraduate Team Members:** Öykü Eren (undergraduate bursary recipient) and Miraç Buğra Özkan (undergraduate bursary recipient) from ITU Department of AI and Data Engineering.
+- **Undergraduate Members:** 
   - Öykü Eren, İTÜ Artificial Intelligence and Data Engineering
   - Miraç Buğra Özkan, İTÜ Artificial Intelligence and Data Engineering
 
