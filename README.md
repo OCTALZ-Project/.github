@@ -1,5 +1,3 @@
-# .github
-
 
 # Optical Coherence Tomography (and Angiography) Scans and Deep Learning-Based Alzheimer's Disease Diagnosis
 
