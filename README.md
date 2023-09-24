@@ -28,6 +28,8 @@ In this research project, our goals are:
   - Dr. Fatih Arpacı, Eye Hospital Specialization Candidate
   - Dr. Ozan Arslan, Neurology Specialization Candidate
 - **Undergraduate Team Members:** Öykü Eren (undergraduate bursary recipient) and Miraç Buğra Özkan (undergraduate bursary recipient) from ITU Department of AI and Data Engineering.
+  - Öykü Eren, İTÜ Artificial Intelligence and Data Engineering
+  - Miraç Buğra Özkan, İTÜ Artificial Intelligence and Data Engineering
 
 ---
 
@@ -54,6 +56,8 @@ Optik Koherens Tomografi taramaları üzerinde Alzheimer Hastalığı ve Hafif B
   - Yasemin Turkan, Bilgisayar Mühendisliği 
   - Dr. Fatih Arpacı, Göz Hastalıkları İhtisas Adayı
   - Dr. Ozan Arslan, Nöroloji İhtisas Adayı
-- **Lisans Öğrencileri:** Öykü Eren (lisans bursiyer) ve Miraç Buğra Özkan (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü'nden
+- **Lisans Öğrencileri:**
+  - Öykü Eren (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - Miraç Buğra Özkan (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
 
 ---
