@@ -27,9 +27,20 @@ In this research project, our goals are:
   - Yasemin Turkan, Computer Engineering 
   - Dr. Fatih Arpacı, Eye Hospital Specialization Candidate
   - Dr. Ozan Arslan, Neurology Specialization Candidate
-- **Undergraduate Members:** 
-  - Öykü Eren, İTÜ Artificial Intelligence and Data Engineering
-  - Miraç Buğra Özkan, İTÜ Artificial Intelligence and Data Engineering
+- **Undergraduate Members:**
+  - Öykü Eren (Undergraduate Scholar), ITU Artificial Intelligence and Data Engineering
+
+  - Miraç Buğra Özkan (Undergraduate Scholar), ITU Department of Artificial Intelligence and Data Engineering
+
+  - M. Serdar Nazlı (BİDEB STAR Undergraduate Scholar), ITU Department of Artificial Intelligence and Data Engineering
+
+  - Ömer Faruk Aydın (BİDEB STAR Undergraduate Scholar), ITU Department of Artificial Intelligence and Data Engineering
+
+  - Büşra Şahin (Undergraduate Scholar), ITU Department of Artificial Intelligence and Data Engineering
+
+  - Efe Kırbıyık (Undergraduate Scholar), ITU Department of Artificial Intelligence and Data Engineering
+
+  - Elif Kuş (BİDEB STAR Undergraduate Scholar), Fenerbahçe University, Department of Computer Engineering
 
 ---
 
@@ -60,10 +71,10 @@ Optik Koherens Tomografi taramaları üzerinde Alzheimer Hastalığı ve Hafif B
   - Öykü Eren (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
   - Miraç Buğra Özkan (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
   - M. Serdar Nazlı (Bidep Star-lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
-  - Ömer Faruk (Bidep Star-lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - Ömer Faruk Aydın (Bidep Star-lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
   - Büşra Şahin (lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
   - Efe Kırbıyık (lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
   - Elif Kuş (Bidep Star-lisans bursiyer), Fenerbahçe Üniversitesi, Bilgisayar Mühendisliği Bölümü
-  - 
+
 
 ---
