@@ -2,7 +2,7 @@
 # Optical Coherence Tomography (and Angiography) Scans and Deep Learning-Based Alzheimer's Disease Diagnosis
 
 **Grant Sponsor:** Tubitak-1001 ARDEP Programme  
-**Research Paper (preprint):** [Link to ArXiv](https://arxiv.org/abs/2209.03354)
+**For publications:** https://octa.itu.edu.tr/publications-tr.html
 
 ## Overview
 
@@ -59,5 +59,11 @@ Optik Koherens Tomografi taramaları üzerinde Alzheimer Hastalığı ve Hafif B
 - **Lisans Öğrencileri:**
   - Öykü Eren (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
   - Miraç Buğra Özkan (lisans bursiyer) İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - M. Serdar Nazlı (Bidep Star-lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - Ömer Faruk (Bidep Star-lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - Büşra Şahin (lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - Efe Kırbıyık (lisans bursiyer),İTÜ Yapay Zeka ve Veri Mühendisliği Bölümü
+  - Elif Kuş (Bidep Star-lisans bursiyer), Fenerbahçe Üniversitesi, Bilgisayar Mühendisliği Bölümü
+  - 
 
 ---
